@@ -1,5 +1,7 @@
 # Angular7Firebase
 
+Enter Firebase settings data in the file  environment.ts
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
 ## Development server
